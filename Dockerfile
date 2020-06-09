@@ -27,6 +27,7 @@ RUN \
  apk add --no-cache --upgrade \
 	curl \
 	ffmpeg \
+	fontconfig \
 	imagemagick \
 	libxml2 \
 	php7-apcu \
